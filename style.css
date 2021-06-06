@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.countdown {
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 2rem;
+}
+
+.txt{
+    font-size: 2rem;
+    margin: 10px;
+}
+.bg-gradient-4 {
+   
+    background: -webkit-linear-gradient(to right, #0F2027, #203A43);
+    background: linear-gradient(to right, #2C5364, #203A43);
+}
+
+.rounded {
+    border-radius: 1rem !important;
+}
